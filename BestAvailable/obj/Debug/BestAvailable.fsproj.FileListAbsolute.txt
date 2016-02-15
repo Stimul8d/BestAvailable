@@ -1,0 +1,12 @@
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\BestAvailable.exe.config
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\BestAvailable.XML
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\BestAvailable.exe
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\BestAvailable.pdb
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\FSharp.Core.dll
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\FSharp.Core.xml
+C:\DEV\SKUNK\BestAvailable\BestAvailable\obj\Debug\BestAvailable.exe
+C:\DEV\SKUNK\BestAvailable\BestAvailable\obj\Debug\BestAvailable.pdb
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\Data.json
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\FSharp.Data.dll
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\FSharp.Data.pdb
+C:\DEV\SKUNK\BestAvailable\BestAvailable\bin\Debug\FSharp.Data.xml
